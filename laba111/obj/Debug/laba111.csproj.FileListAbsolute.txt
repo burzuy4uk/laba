@@ -3,8 +3,7 @@ C:\Users\Елитная Ку\RiderProjects\laba111\laba111\bin\Debug\laba111.pdb
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.csproj.AssemblyReference.cache
-C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.csproj.SuggestedBindingRedirects.cache
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.csproj.CoreCompileInputs.cache
-C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.csproj.CopyComplete
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.exe
 C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.pdb
+C:\Users\Елитная Ку\RiderProjects\laba111\laba111\obj\Debug\laba111.csproj.Up2Date
